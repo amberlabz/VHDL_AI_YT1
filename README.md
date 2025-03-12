@@ -10,9 +10,9 @@ Si estos videos te han ayudado, te agradecería en el alma que me ayudes a crear
 
 ¡¡Únete al grupo de Telegram de la comunidad Amberlabz para compartir tus proyectos y preguntar dudas sobre electrónica!! ⚡⚡
 
-🟢Grupo de Telegram: https://t.me/amberlabzcom
-🟢Servidor de Discord: https://discord.com/invite/fjWvPMNxUR
-🟢Web, redes, contacto: https://www.amberlabz.com
+🟢Grupo de Telegram: https://t.me/amberlabzcom<br>
+🟢Servidor de Discord: https://discord.com/invite/fjWvPMNxUR<br>
+🟢Web, redes, contacto: https://www.amberlabz.com<br>
 🟢Contrata mis servicios como ingeniero electrónico: info@amberlabz.com
 
 # PRUEBA 1 (Multiplexor de 8 a 1):
