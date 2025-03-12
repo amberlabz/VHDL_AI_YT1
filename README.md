@@ -1,4 +1,4 @@
-# VHDL_AI_YT1
+# Videos_YouTube_VHDL_con_IA_para_FPGA
 Repositorio con el proyecto de Quartus y los prompts utilizados en los videos de YouTube sobre cómo utilizar la Inteligencia Artificial para generar VHDL para FPGA y CPLD.
 
 <div style="display: flex; gap: 20px;">
