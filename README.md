@@ -1,8 +1,9 @@
 # VHDL_AI_YT1
 Repositorio con el proyecto de Quartus y los prompts utilizados en los videos de YouTube sobre cómo utilizar la Inteligencia Artificial para generar VHDL para FPGA y CPLD.
 
-Enlaces a los videos:
-
+Enlaces a los videos:<br>
+⚡Parte 1: https://youtu.be/VnHgyV7rvic<br>
+⚡Parte 2:  <br>
 
 Si estos videos te han ayudado, te agradecería en el alma que me ayudes a crear más contenido así mediante una donación 🙏💕: https://www.paypal.com/donate/?hosted_button_id=VC4JPZVR6AX5E
 
@@ -19,6 +20,9 @@ Si estos videos te han ayudado, te agradecería en el alma que me ayudes a crear
 
 
 # PRUEBA 1 (Multiplexor de 8 a 1):
+
+⚡https://youtu.be/VnHgyV7rvic?t=256<br>
+
 Genera el código en VHDL totalmente compatible con Quartus de:<br>
 Un multiplexor de 8 a 1. La entidad deberá tener únicamente:<br>
 -8 entradas de datos separadas, nada de vectores o buses. Estas entradas son activas a nivel bajo, es decir que cuando hay presente en las entradas de datos un 0, este debería interpretarse como un 1 y viceversa<br>
