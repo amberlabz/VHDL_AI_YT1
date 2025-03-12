@@ -3,6 +3,18 @@ Repositorio con el proyecto de Quartus y los prompts utilizados en los videos de
 
 Enlaces a los videos:
 
+
+Si estos videos te han ayudado, te agradecería en el alma que me ayudes a crear más contenido así mediante una donación 🙏💕: https://www.paypal.com/donate/?hosted_button_id=VC4JPZVR6AX5E
+
+¡Muchas gracias por tu apoyo!
+
+¡¡Únete al grupo de Telegram de la comunidad Amberlabz para compartir tus proyectos y preguntar dudas sobre electrónica!! ⚡⚡
+
+🟢Grupo de Telegram: https://t.me/amberlabzcom
+🟢Servidor de Discord: https://discord.com/invite/fjWvPMNxUR
+🟢Web, redes, contacto: https://www.amberlabz.com
+🟢Contrata mis servicios como ingeniero electrónico: info@amberlabz.com
+
 # PRUEBA 1 (Multiplexor de 8 a 1):
 Genera el código en VHDL totalmente compatible con Quartus de:
 Un multiplexor de 8 a 1. La entidad deberá tener únicamente:
