@@ -15,6 +15,9 @@ Si estos videos te han ayudado, te agradecería en el alma que me ayudes a crear
 🟢Web, redes, contacto: https://www.amberlabz.com<br>
 🟢Contrata mis servicios como ingeniero electrónico: info@amberlabz.com
 
+![EP4C6F17C8N PCB CHEATSHEET](https://github.com/user-attachments/assets/d4312bc7-7f79-47f8-ad3b-bca26dcd2d3d)
+
+
 # PRUEBA 1 (Multiplexor de 8 a 1):
 Genera el código en VHDL totalmente compatible con Quartus de:
 Un multiplexor de 8 a 1. La entidad deberá tener únicamente:
